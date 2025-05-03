@@ -35,11 +35,7 @@
 }
 
 window#waybar {
-    background-color: rgba(0,0,0,0.4);
-    border-bottom: 0px solid #ffffff;
-    /* color: #FFFFFF; */
-    transition-property: background-color;
-    transition-duration: .5s;
+    background-color: rgba(0,0,0,0.0);
 }
 
 .modules-left {
