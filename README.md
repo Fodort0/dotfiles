@@ -51,7 +51,7 @@ Please rebuild all packages to ensure that you get the latest commit.
 Tested on Fedora Workstation 41 and 42.
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/Fodort0/dotfiles/main/setup-arch.sh)
+bash <(curl -s https://raw.githubusercontent.com/Fodort0/dotfiles/main/setup-fedora.sh)
 ```
 
 ## Troubleshooting
